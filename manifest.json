@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Voltek Energy Vendor",
-  "short_name": "VEV Ops",
+  "name": "Voltek Vendor",
+  "short_name": "Voltek Vendor",
   "description": "Voltek Energy residential solar installation field operations app — job checklists, photo evidence, records of test, and admin review.",
   "start_url": "./",
   "scope": "./",
